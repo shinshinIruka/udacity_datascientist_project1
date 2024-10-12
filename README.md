@@ -51,8 +51,16 @@ This section highlights the significant price difference between central and per
   - seaborn
   - scikit-learn
 
+
 ## How to Run the Notebook
 1. Clone the repository or download the notebook.
 2. Install the required dependencies using `pip install -r requirements.txt`.
 3. Launch the Jupyter Notebook.
 4. Run the cells step-by-step to reproduce the analysis.
+
+##  Summary of the results
+- Blog post url: https://medium.com/@thinhelca/exploring-seattle-airbnb-open-data-pricing-insights-adc70e087ccf
+
+## Acknowledgements
+- Data source: https://www.kaggle.com/datasets/airbnb/seattle/data
+- Data credit: The dataset is part of Airbnb Inside.
